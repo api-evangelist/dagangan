@@ -1,7 +1,14 @@
 aid: dagangan
 name: Dagangan
-description: Dagangan is a company surfaced as a portfolio company of 500-global and added to the API
-  Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  Dagangan is an Indonesian tech-enabled wholesale e-commerce platform serving small and medium
+  retailers (SMEs) in tier 3-4 cities and rural areas. Through a hub-and-spoke network of 50+
+  micro-warehouses across remote regions, it connects large suppliers to traditional local retailers,
+  giving them affordable mobile access to daily necessities and groceries while reducing delivery costs
+  and supply-chain friction. The company operates a consumer/retailer Android shopping application
+  (Dagangan Mall), is backed by 500 Global, and is recognized as a Rural Digitalization Partner of
+  Indonesia's Ministry of Villages, Disadvantaged Regions, and Transmigration. As of this profile,
+  Dagangan publishes no public developer API or OpenAPI specification.
 url: https://raw.githubusercontent.com/api-evangelist/dagangan/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -9,11 +16,30 @@ x-backed-by:
 - 500-global
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-18'
+image: https://dagangan.com/assets/images/logos/dagangan-logo.svg
 tags:
 - Company
+- E-Commerce
+- Wholesale
+- Logistics
+- Retail
+- Supply Chain
+- Rural Commerce
+- Indonesia
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -21,5 +47,24 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
+- type: DomainSecurity
+  url: security/dagangan-domain-security.yml
+- type: LLMsTxt
+  url: llms/dagangan-llms.txt
 - type: Website
   url: https://dagangan.com
+- type: About
+  url: https://dagangan.com/about.php
+- type: Blog
+  url: https://blogdagangan.wordpress.com/
+- type: Support
+  url: https://wa.me/62811202395
+- type: TermsOfService
+  url: https://dagangan.com/terms.php
+- type: PrivacyPolicy
+  url: https://dagangan.com/privacy.php
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence

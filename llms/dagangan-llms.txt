@@ -1,0 +1,26 @@
+# Dagangan
+
+> Dagangan is an Indonesian tech-enabled wholesale e-commerce platform serving small and medium retailers (SMEs) in tier 3-4 cities and rural areas. Through a hub-and-spoke network of 50+ micro-warehouses, it connects large suppliers to traditional local retailers, giving them affordable mobile access to daily necessities and groceries. Dagangan is backed by 500 Global and recognized as a Rural Digitalization Partner of Indonesia's Ministry of Villages, Disadvantaged Regions, and Transmigration.
+
+Note: Dagangan operates a consumer/retailer mobile shopping application (Android) and a corporate website. As of this profile it publishes no public developer API, OpenAPI specification, or developer portal. This file is generated from the API Evangelist catalog record, not from a provider-published llms.txt.
+
+## Company
+- [Home](https://dagangan.com): Company home page.
+- [About](https://dagangan.com/about.php): Mission, business model, and rural coverage.
+- [Shop](https://dagangan.com/shop.php): Wholesale product catalog surface.
+- [Reseller](https://dagangan.com/reseller.php): Reseller program.
+- [Career](https://dagangan.com/career.php): Open roles.
+
+## Apps
+- [Android App (Google Play)](https://play.google.com/store/apps/details?id=com.dagangan.mall&hl=id): Dagangan Mall mobile shopping application.
+
+## Content
+- [Blog / News & Updates](https://blogdagangan.wordpress.com/): Company news and updates.
+
+## Support & Legal
+- [Support (WhatsApp)](https://wa.me/62811202395): Customer support channel.
+- [Terms & Conditions](https://dagangan.com/terms.php): Terms of service.
+- [Privacy Policy](https://dagangan.com/privacy.php): Privacy policy.
+
+## API Evangelist
+- [APIs.json](https://raw.githubusercontent.com/api-evangelist/dagangan/refs/heads/main/apis.yml): Machine-readable profile for Dagangan.

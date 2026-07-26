@@ -1,0 +1,14 @@
+{
+  "repo": "dagangan",
+  "feeds": [
+    {
+      "source": "https://dagangan.com/about.php",
+      "feed_url": "https://dagangan.com/about.php",
+      "title": "",
+      "saved": 0,
+      "method": "none"
+    }
+  ],
+  "post_count": 0,
+  "fetched": "2026-07-25T15:00:33Z"
+}

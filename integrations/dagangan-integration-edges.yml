@@ -1,0 +1,16 @@
+generated: '2026-10-12'
+method: none
+source:
+- https://zapier.com/apps/dagangan/integrations
+- https://n8n.io/integrations/dagangan/
+- https://composio.dev/toolkits/dagangan
+- https://monid.ai/tools/dagangan
+checked:
+- https://composio.dev/toolkits/dagangan
+- https://monid.ai/tools/dagangan
+- https://n8n.io/integrations/dagangan/
+- https://zapier.com/apps/dagangan/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
